@@ -1,6 +1,8 @@
-### Kattis solutions
+﻿### Kattis solutions
 
 ##### Some work, some don't.
+
+
 
 
 
@@ -29,3 +31,4 @@
 
 
 
+[FizzBuzz](https://open.kattis.com/problems/fizzbuzz) Status: [Accepted](https://open.kattis.com/submissions/3003968)
